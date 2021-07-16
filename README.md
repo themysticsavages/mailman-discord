@@ -4,7 +4,7 @@
 ![Help](https://github.com/ajskateboarder/stuff/blob/main/mailman/help.png)<br>
 !["E-mail"](https://github.com/ajskateboarder/stuff/blob/main/mailman/msg.png)<br>
 ![Poll](https://github.com/ajskateboarder/stuff/blob/main/mailman/poll.png)<br>
-## Commands
+## Commands 🗯
 ```
 help - Get help (obviously)
 ```
@@ -23,5 +23,5 @@ mail - Send a formalized message to a channel!
 ```
 poll - Send a poll to a channel!
 ```
-## Hosting
+## Hosting 💻
 This bot can be hosted with most cloud services - excluding Heroku, for some reason. Replit is nice though!
